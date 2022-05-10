@@ -29,9 +29,6 @@
     <loc>/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/post-7/</loc>
     <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url><url>
@@ -49,6 +46,8 @@
   </url><url>
     <loc>/tags/space/</loc>
     <lastmod>2018-03-18T12:13:30+05:30</lastmod>
+  </url><url>
+    <loc>/about/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url>
